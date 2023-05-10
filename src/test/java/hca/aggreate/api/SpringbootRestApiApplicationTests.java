@@ -1,4 +1,4 @@
-package com.example.springbootrestapi;
+package hca.aggreate.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
